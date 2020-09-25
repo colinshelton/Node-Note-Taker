@@ -4,16 +4,6 @@
 
 This node-based note taker is a web app used to create notes, consisting of a title and text. Users then have the ability to save the note created and begin a new note or reference their previously created note for later. This functionality is accomplished with Express routing and can be used by deploying locally or with a remote server.
 
-## Table of Contents
-
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Contributing](#contributing)
-    - [Tests](#tests)
-    - [Questions](#questions)
-    - [Credits](#credits)
-
 ## Installation
 
 1. Download or clone repository
