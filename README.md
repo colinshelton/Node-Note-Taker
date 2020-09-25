@@ -6,13 +6,13 @@ This node-based note taker is a web app used to create notes, consisting of a ti
 
 ## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
-    * [Credits](#credits)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [License](#license)
+    - [Contributing](#contributing)
+    - [Tests](#tests)
+    - [Questions](#questions)
+    - [Credits](#credits)
 
 ## Installation
 
